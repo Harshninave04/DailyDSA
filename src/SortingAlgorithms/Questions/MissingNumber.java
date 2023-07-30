@@ -1,4 +1,4 @@
-package BinarySearch.Questions;
+package SortingAlgorithms.Questions;
 
 import java.util.Arrays;
 
