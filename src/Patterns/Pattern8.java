@@ -21,6 +21,6 @@ public class Pattern8 {
         }
     }
     public static void main(String[] args) {
-        pattern(5);
+        pattern(15);
     }
 }
