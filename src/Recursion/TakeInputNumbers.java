@@ -16,6 +16,9 @@ public class TakeInputNumbers {
         // Recursive call
         // If you're calling a function again and again , You can treat it as a separate call
         // in stack.
+
+        // This is the last function call
+        // That's why it is tail recursion
         numbers(n+1);
 
     }
